@@ -8,6 +8,8 @@ namespace cc_bad_code
   
     static void Main(string[] args)
     {
+      
+      Console.WriteLine("Bad code");
   
   
     }
